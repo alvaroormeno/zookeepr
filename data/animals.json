@@ -165,6 +165,26 @@
     },
     {
       "id": "19"
+    },
+    {
+      "name": "Terry",
+      "species": "gorilla",
+      "diet": "carnivore",
+      "personalityTraits": [
+        "anxious",
+        "goofy"
+      ],
+      "id": "20"
+    },
+    {
+      "name": "Terry",
+      "species": "gorilla",
+      "diet": "carnivore",
+      "personalityTraits": [
+        "anxious",
+        "goofy"
+      ],
+      "id": "21"
     }
   ]
 }
